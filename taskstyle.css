@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Titan+One&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Kanit&family=Mochiy+Pop+P+One&family=Varela+Round&display=swap');
+.title{
+  color:white;
+  text-align:center;
+  margin:20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    height: 100%;
+    font-size: 1.5em;
+    font-family: 'Mochiy Pop P One', sans serif;
+    line-height: 1.5;
+    color: #111 ;
+    background-color: #111;
+}
+html{
+    font-size: 12px;
+}
+.bg-img{
+    background-image: url(https://images.hindustantimes.com/img/2021/01/23/original/Netaji_1_1611391650634.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #111;
+}
+.section{
+    background: #111;
+    min-height: 100px;
+    color: #fff;
+}
+.img img{
+    width: 420px;
+    height: 400px;
+    box-sizing: border-box;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.container{
+    width:80%;
+    text-align: center;
+    margin: 0 auto;
+    padding:0% 10% 5%;
+    color: #fff;
+    font-size: 1.8rem;
+}
